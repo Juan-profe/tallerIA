@@ -1,0 +1,156 @@
+:: StoryTitle
+EXPENSE
+
+
+:: StoryData
+{
+  "ifid": "6ED8BEEE-2968-42E9-98D9-B80CFC66C265",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Broke {"position":"625,400","size":"100,100"}
+You lose everything. Left with nothing, the world moves on without you.
+
+
+[[End|End]]
+
+
+:: Charity {"position":"600,550","size":"100,100"}
+You give away your fortune, but suffering never ends. The world remains cruel.
+
+[[Accept reality|Realization]]
+
+
+
+:: Cheated {"position":"400,375","size":"100,100"}
+The dealer smirks. The game was rigged from the start. You have nothing left.
+
+[[Seek revenge|Revenge]]
+[[Accept your fate|Broke]]
+
+
+:: Corruption {"position":"400,1000","size":"100,100"}
+You amass everything but lose your soul. Nothing satisfies you anymore.
+
+[[End|End]]
+
+
+:: End {"position":"525,625","size":"100,100"}
+The story ends, but the struggle never does.
+
+
+:: Escape {"position":"525,1000","size":"100,100"}
+You abandon wealth and seek meaning elsewhere. But was it all worth it?
+
+[[Accept reality|Realization]]
+
+
+
+:: Gamble {"position":"500,250","size":"100,100"}
+You put everything on the line. The dice roll, the numbers spin, and in an instant...
+
+[[You win|Rich]]
+[[You lose|Broke]]
+[[The dealer cheats you|Cheated]]
+
+
+:: Happiness {"position":"425,675","size":"100,100"}
+Money buys comfort, not love. No matter how much you spend, the void persists.
+
+[[Try again|Gamble]]
+[[End|End]]
+
+
+:: Kindness {"position":"700,1100","size":"100,100"}
+You choose to guide others, sharing your understanding of the human condition. You teach compassion, kindness, and the importance of seeing beyond the surface. But even as you help those around you, the harsh realities of the world remain. People still suffer, and kindness alone is not enough to change the system.
+
+You wonder if true peace is ever attainable or if the world is just too broken to fix.
+
+[[End|End]]
+
+
+:: Mystic {"position":"575,850","size":"100,100"}
+[[Follow their teachings|Wisdom]]
+[[Reject them and continue your path|Work]]
+
+
+:: Peace {"position":"750,375","size":"100,100"}
+You live comfortably but watch others suffer. Did you truly win?
+
+[[Reflect on life|Realization]]
+
+
+:: Power {"position":"475,875","size":"100,100"}
+You become one of them. You realize wealth alone isn't enough—control is the real currency.
+
+[[Lose yourself in power|Corruption]]
+[[Escape before it's too late|Escape]]
+
+
+:: Realization {"position":"650,650","size":"100,100"}
+The world is designed for suffering. No wealth can change that. Love and peace? Illusions.
+
+**You finally understand: Life is a gamble, and in the end, everyone loses.**
+
+[[End|End]]
+
+
+
+:: Revenge {"position":"200,500","size":"100,100"}
+You track down the dealer, only to discover he's just a pawn in a greater scheme. 
+
+[[Go deeper into the system|Truth]]
+[[Walk away|End]]
+
+
+:: Revolution {"position":"350,875","size":"100,100"}
+You lead an uprising but are crushed by the system. The world stays the same.
+
+[[Accept reality|Realization]]
+
+
+:: Rich {"position":"525,375","size":"100,100"}
+Wealth surrounds you, but the emptiness remains. What was it all for?
+
+[[Buy happiness|Happiness]]
+[[Give it away|Charity]]
+[[Seek the truth behind wealth|Truth]]
+
+
+:: Truth {"position":"400,500","size":"100,100"}
+You meet powerful individuals who manipulate wealth and suffering. You realize money is just a tool.
+
+[[Attempt to change the system|Revolution]]
+[[Join them and rule|Power]]
+
+
+:: Untitled Passage {"position":"575,75","size":"100,100"}
+You sit in the dimly lit room, counting the last of your savings. A choice looms before you.
+
+<img src="https://juan-profe.github.io/tallerIA/estu12/001.jpg" alt="Descripción de la imagen" style="width:100%; border-radius:10px;">
+
+
+
+[[Invest everything in a high-stakes gamble|Gamble]]
+[[Work hard and earn slowly|Work]]
+[[Seek advice from a mysterious figure|Mystic]]
+
+
+:: Wisdom {"position":"700,975","size":"100,100"}
+You decide to follow their teachings. As time passes, you learn the hidden truths of human nature—how greed, fear, and desire shape people's choices. With this new understanding, you begin to see the world differently, realizing that money is a mere tool, not the answer to life's suffering.
+
+The world is not moved by wealth alone. The game you once played is a farce, and true power lies in control over people's hearts and minds. But now you must decide how to use this knowledge.
+
+[[Use it for power|Power]]
+[[Try to guide others|Kindness]]
+
+
+:: Work {"position":"625,250","size":"100,100"}
+You grind day and night, saving penny by penny. Years pass, and you have enough.
+
+[[Retire peacefully|Peace]]
+[[Risk it all for more|Gamble]]
