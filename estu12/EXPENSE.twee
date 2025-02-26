@@ -1,0 +1,200 @@
+:: StoryTitle
+EXPENSE
+
+
+:: StoryData
+{
+  "ifid": "6ED8BEEE-2968-42E9-98D9-B80CFC66C265",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Broke {"position":"625,400","size":"100,100"}
+You lose everything. Left with nothing, the world moves on without you.
+
+<img src="https://www.debt.org/wp-content/uploads/2012/06/Gambling-Debt.jpg">
+
+
+
+
+[[End|End]]
+
+
+:: Charity {"position":"600,550","size":"100,100"}
+You give away your fortune, but suffering never ends. The world remains cruel.
+
+<img src="https://www.thelifeyoucansave.org/wp-content/uploads/2019/11/Screen-Shot-2015-07-13-at-1.53.34-PM.png">
+
+[[Accept reality|Realization]]
+
+
+:: Cheated {"position":"325,350","size":"100,100"}
+The dealer smirks. The game was rigged from the start. You have nothing left.
+
+<img src="https://cdn.images.express.co.uk/img/dynamic/143/590x/Cheat-cards-1647005.webp?r=1659867055773">
+
+
+
+[[Seek revenge|Revenge]]
+[[Accept your fate|Broke]]
+
+
+:: Corruption {"position":"400,1000","size":"100,100"}
+You amass everything but lose your soul. Nothing satisfies you anymore.
+
+<img src="https://media.istockphoto.com/id/477514725/es/foto/en-la-tabla-de-las-transacciones.jpg?s=2048x2048&w=is&k=20&c=xFizNAlHTcDpj3QknjRa1IYmxZLxihRcH96-lY6BXkc=">
+
+
+[[End|End]]
+
+
+:: End {"position":"525,625","size":"100,100"}
+<img src="https://as2.ftcdn.net/v2/jpg/05/09/29/97/1000_F_509299785_PDFCRr2NtuFESfUdEzL6pfAaFqfR03yt.jpg
+
+The story ends, but the struggle never does.
+
+
+:: Escape {"position":"525,1000","size":"100,100"}
+You abandon wealth and seek meaning elsewhere. But was it all worth it?
+
+<img src="https://images.pexels.com/photos/247851/pexels-photo-247851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+
+
+[[Accept reality|Realization]]
+
+
+:: Gamble {"position":"500,250","size":"100,100"}
+You put everything on the line. The dice roll, the numbers spin, and in an instant...
+
+<img src="https://juan-profe.github.io/tallerIA/estu12/00105.jpg" alt="Descripción de la imagen" style="width:100%; border-radius:10px;">
+
+[[You win|Rich]]
+[[You lose|Broke]]
+[[The dealer cheats you|Cheated]]
+
+
+:: Happiness {"position":"425,675","size":"100,100"}
+Money buys comfort, not love. No matter how much you spend, the void persists.
+
+<img src="https://prod-us-east-1-hd-cms-uploads.s3.amazonaws.com/cms_uploads/en_US/img/happifiers/image_jumpstory-download20230421-155938_7a7b427.jpg">
+
+[[Try again|Gamble]]
+[[End|End]]
+
+
+:: Kindness {"position":"700,1100","size":"100,100"}
+You choose to guide others, sharing your understanding of the human condition. You teach compassion, kindness, and the importance of seeing beyond the surface. But even as you help those around you, the harsh realities of the world remain. People still suffer, and kindness alone is not enough to change the system.
+
+<img src="https://images.pexels.com/photos/9016969/pexels-photo-9016969.jpeg">
+
+You wonder if true peace is ever attainable or if the world is just too broken to fix.
+
+[[End|End]]
+
+
+:: Mystic {"position":"575,850","size":"100,100"}
+
+<img src="https://www.alexgrey.com/art-images/Tantra-1991-Alex-Grey-watermarked.jpg">
+
+[[Follow their teachings|Wisdom]]
+[[Reject them and continue your path|Work]]
+
+
+:: Peace {"position":"750,375","size":"100,100"}
+You live comfortably but watch others suffer. Did you truly win?
+
+<img src="https://juan-profe.github.io/tallerIA/estu12/00103.jpg" alt="Descripción de la imagen" style="width:100%; border-radius:10px;">
+
+
+
+[[Reflect on life|Realization]]
+
+
+:: Power {"position":"475,825","size":"100,100"}
+You become one of them. You realize wealth alone isn't enough—control is the real currency.
+
+<img src="https://st2.depositphotos.com/1000423/11161/i/950/depositphotos_111610902-stock-photo-man-catch-stream-of-light.jpg">
+
+[[Lose yourself in power|Corruption]]
+[[Escape before it's too late|Escape]]
+
+
+:: Realization {"position":"650,650","size":"100,100"}
+The world is designed for suffering. No wealth can change that. Love and peace? Illusions.
+
+**You finally understand: Life is a gamble, and in the end, everyone loses.**
+
+<img src="https://as2.ftcdn.net/jpg/10/44/29/55/1000_F_1044295583_zueVUfDRNQG4THZbqSVprBLuEfPYtuRN.webp">
+
+[[End|End]]
+
+
+:: Revenge {"position":"200,500","size":"100,100"}
+You track down the dealer, only to discover he's just a pawn in a greater scheme. 
+
+<img src="https://c7.alamy.com/comp/CN2DF7/bloody-letters-and-a-hand-print-showing-revenge-CN2DF7.jpg">
+
+[[Go deeper into the system|Truth]]
+[[Walk away|End]]
+
+
+:: Revolution {"position":"350,875","size":"100,100"}
+You lead an uprising but are crushed by the system. The world stays the same.
+
+<img src="https://img.freepik.com/free-vector/raised-fist-vintage-constructivist-revolution-communism-promoting-poster-symbolizing-unity-solidarity-with-oppressed-people-fight_1284-28040.jpg?t=st=1740561400~exp=1740565000~hmac=fc506fb39c9c12bfaaeb830eb09b83cb4a9a202d85ded1f14045934f90dda122&w=740">
+
+[[Accept reality|Realization]]
+
+
+:: Rich {"position":"425,375","size":"100,100"}
+Wealth surrounds you, but the emptiness remains. What was it all for?
+
+<img src="https://www.newtraderu.com/wp-content/uploads/Rules-Of-Money-You-Need-To-Master-To-Become-Rich-.jpg?ezimgfmt=rs%3Adevice%2Frscb1-1">
+
+[[Buy happiness|Happiness]]
+[[Give it away|Charity]]
+[[Seek the truth behind wealth|Truth]]
+
+
+:: Truth {"position":"350,500","size":"100,100"}
+You meet powerful individuals who manipulate wealth and suffering. You realize money is just a tool.
+
+<img src="data:image/jpeg;base64,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">
+
+[[Attempt to change the system|Revolution]]
+[[Join them and rule|Power]]
+
+
+:: Untitled Passage {"position":"575,75","size":"100,100"}
+You sit in the dimly lit room, counting the last of your savings. A choice looms before you.
+
+<img src="https://juan-profe.github.io/tallerIA/estu12/001.jpg" alt="Descripción de la imagen" style="width:100%; border-radius:10px;">
+
+
+[[Invest everything in a high-stakes gamble|Gamble]]
+[[Work hard and earn slowly|Work]]
+[[Seek advice from a mysterious figure|Mystic]]
+
+
+:: Wisdom {"position":"700,975","size":"100,100"}
+You decide to follow their teachings. As time passes, you learn the hidden truths of human nature—how greed, fear, and desire shape people's choices. With this new understanding, you begin to see the world differently, realizing that money is a mere tool, not the answer to life's suffering.
+
+The world is not moved by wealth alone. The game you once played is a farce, and true power lies in control over people's hearts and minds. But now you must decide how to use this knowledge.
+
+<img src="https://images.pexels.com/photos/1029141/pexels-photo-1029141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+
+[[Use it for power|Power]]
+[[Try to guide others|Kindness]]
+
+
+:: Work {"position":"625,250","size":"100,100"}
+You grind day and night, saving penny by penny. Years pass, and you have enough.
+
+<img src="https://www.ipsos.com/sites/default/files/ct/news_and_polls/2021-07/man-at-work-unhappy.jpg">
+
+
+[[Retire peacefully|Peace]]
+[[Risk it all for more|Gamble]]
