@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecuaciones en Google Forms</title>
+    <!-- Cargar MathJax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .equation {
+            font-size: 1.2em;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ecuaciones para Google Forms</h1>
+
+    <!-- Ecuación 1: Ecuación cuadrática -->
+    <div class="equation">
+        <p>Resuelve la siguiente ecuación cuadrática:</p>
+        \[
+        f(x) = ax^2 + bx + c
+        \]
+    </div>
+
+    <!-- Ecuación 2: Fórmula del vértice -->
+    <div class="equation">
+        <p>Encuentra el vértice de la siguiente función:</p>
+        \[
+        V\left( -\frac{b}{2a}, f\left(-\frac{b}{2a}\right) \right)
+        \]
+    </div>
+
+    <!-- Ecuación 3: Solución de una ecuación cuadrática -->
+    <div class="equation">
+        <p>Usa la fórmula general para resolver:</p>
+        \[
+        x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+        \]
+    </div>
+
+    <!-- Ecuación 4: Ejemplo resuelto -->
+    <div class="equation">
+        <p>Resuelve la ecuación \( x^2 + 5x + 6 = 0 \):</p>
+        \[
+        x^2 + 5x + 6 = 0 \implies (x + 2)(x + 3) = 0 \implies x = -2 \text{ o } x = -3
+        \]
+    </div>
+</body>
+</html>
